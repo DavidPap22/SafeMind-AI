@@ -1,0 +1,5 @@
+{
+  "name": "SafeMind AI",
+  "description": "AI-powered organizational well-being dashboard with privacy-by-design. Monitor team KPIs, stress levels, and right-to-disconnect violations without storing private message content.",
+  "requestFramePermissions": []
+}
